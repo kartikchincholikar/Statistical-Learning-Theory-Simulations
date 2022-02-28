@@ -1,20 +1,14 @@
 # ABOUT
-Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video.
+Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video. This repo contains the code used to do the animations.
 
 **Topics covered:**
 
-i.i.d assumption
-
-Law of large numbers and Hoeffding's inequality
-
-PAC Learning
-
-Feasibility of Learning for finite and infinite hypothesis
-
-Bias - Complexity trade off
-
-VC Dimension ( not included in video )
-
+i.i.d assumption\
+Law of large numbers and Hoeffding's inequality\
+PAC Learning\
+Feasibility of Learning for finite and infinite hypothesis\
+Bias - Complexity trade off\
+VC Dimension ( not included in video )\
 VC Proof ( not included in video )
 
 
