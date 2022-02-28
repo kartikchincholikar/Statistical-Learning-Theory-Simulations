@@ -11,6 +11,8 @@ PAC Learning
 
 Feasibility of Learning for finite and infinite hypothesis
 
+Bias - Complexity trade off
+
 VC Dimension ( not included in video )
 
 VC Proof ( not included in video )
