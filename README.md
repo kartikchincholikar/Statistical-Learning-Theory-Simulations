@@ -1,6 +1,5 @@
 # ABOUT
-Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video. This repo contains the code used to do the animations.\
-Here is a short GIF highlighting all the "knobs" : 
+Inspired by 3blue1brown, I used animations to understand the Statistical Learning Theory Framework and made a video on it. This repo contains the code used to do the animations.\
 
 <img src="./video_2.gif" width="500" height="260" />
 
