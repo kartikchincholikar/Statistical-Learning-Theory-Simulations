@@ -1,7 +1,7 @@
 # ABOUT
 Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video.
 
-Topics covered:
+**Topics covered:**
 
 i.i.d assumption
 
@@ -25,10 +25,11 @@ alt="Understanding Statistical Learning theory using toy simulations" width="320
 # REFERENCES:
 This video is based on the following series of lectures:
 
-[Learning from data](https://tinyurl.com/4wkr7prx) 
-Professor Yaser Abu-Mostafa
+[Learning from data](https://tinyurl.com/4wkr7prx)\
+Professor Yaser Abu-Mostafa\
 Caltech
 
-[Machine learning Theory](https://tinyurl.com/26v5btve) 
-Professor Shai Ben-David and Shai Shalev-Shwartz
+
+[Machine learning Theory](https://tinyurl.com/26v5btve)\
+Professor Shai Ben-David and Shai Shalev-Shwartz\
 University of Waterloo
