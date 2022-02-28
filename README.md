@@ -1,11 +1,11 @@
 # ABOUT
-Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video. This repo contains the code used to do the animations.\
+Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video. This repo contains the code used to do the animations.
 
-I wrote this code with video editing in mind. Hence it might be difficult to understand and use for a different application.\
+I wrote this code with video editing in mind. Hence it might be difficult to understand and use for a different application.
+
 Here is a short GIF highlighting all the "knobs": 
 
-
-![Sample report](<./video_2.gif>)
+<img src="./video_2.gif" width="500" height="260" />
 
 **Topics covered:**
 
