@@ -3,7 +3,7 @@ Inspired by 3blue1brown, I used animations to understand the below topics, and s
 
 I wrote this code with video editing in mind. Hence it might be difficult to understand and use for a different application.
 
-
+![Sample report](<./video_2.gif>)
 
 **Topics covered:**
 
