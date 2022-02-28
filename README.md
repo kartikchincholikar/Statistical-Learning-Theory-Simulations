@@ -1,5 +1,9 @@
 # ABOUT
-Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video. This repo contains the code used to do the animations.
+Inspired by 3blue1brown, I used animations to understand the below topics, and stitched them together to make a video. This repo contains the code used to do the animations.\
+
+I wrote this code with video editing in mind. Hence it might be difficult to understand and use for a different application.
+
+
 
 **Topics covered:**
 
