@@ -12,8 +12,11 @@ Feasibility of Learning for finite and infinite hypothesis\
 Bias - Complexity trade off\
 VC Dimension ( not included in video )\
 VC Proof ( not included in video )
-
+ # 
+ 
 I wrote this code with video editing in mind. Hence it might be difficult to understand.
+
+
 
 # FULL VIDEO
 <a href="https://www.youtube.com/watch?v=lsYPC0MuLJA" target="_blank"><img src="http://img.youtube.com/vi/lsYPC0MuLJA/0.jpg" 
